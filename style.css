@@ -1,0 +1,47 @@
+/*
+Thicc Lizzy Offical Website 
+Author: Ashlie ELizabeth Moore 
+Version: 1.0
+*/ 
+
+/*Fonts & Text*/
+h1{
+    font-size: 4em;
+    line-height: 1em; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    margin: 0; 
+    padding: 0; 
+}
+h2{
+    font-size: 2em;
+    line-height: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    margin: 0; 
+    padding: 0;  
+}
+
+p{
+    font-size: 1em; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+
+a{
+    text-decoration: none; 
+    color: darkgreen; 
+}
+
+/*End Fonts & Text*/
+
+/*Over the Fold*/
+.OTF{
+    display: flex; 
+    align-items: center !important; 
+    justify-content: center !important; 
+    flex-direction: column;
+    height: 100vh; 
+    width: 100vw; 
+}
+/*END over the Fold*/
